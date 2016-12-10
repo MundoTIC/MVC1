@@ -71,8 +71,6 @@ C:\Users\eduardo\Dropbox\Programación\ASP.NET\Proyectos\MVC1\MVC1\bin\es\System
 C:\Users\eduardo\Dropbox\Programación\ASP.NET\Proyectos\MVC1\MVC1\bin\es\System.Web.WebPages.resources.dll
 C:\Users\eduardo\Dropbox\Programación\ASP.NET\Proyectos\MVC1\MVC1\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\eduardo\Dropbox\Programación\ASP.NET\Proyectos\MVC1\MVC1\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\eduardo\Dropbox\Programación\ASP.NET\Proyectos\MVC1\MVC1\bin\es\EntityFramework.resources.dll
-C:\Users\eduardo\Dropbox\Programación\ASP.NET\Proyectos\MVC1\MVC1\bin\es\EntityFramework.SqlServer.resources.dll
 C:\Users\eduardo\Dropbox\Programación\ASP.NET\Proyectos\MVC1\MVC1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
 C:\Users\eduardo\Dropbox\Programación\ASP.NET\Proyectos\MVC1\MVC1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
 C:\Users\eduardo\Dropbox\Programación\ASP.NET\Proyectos\MVC1\MVC1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
